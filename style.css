@@ -9,3 +9,19 @@
   border: none;
 }
 
+.ui.three.column.grid.container {
+  padding-top: 30px;
+  color: white;
+}
+
+.white-background {
+  background-color: white;
+}
+
+.black-background {
+  background-color: black;
+}
+
+body {
+  padding-bottom: 50px;
+}
